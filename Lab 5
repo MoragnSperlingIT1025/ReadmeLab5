@@ -71,8 +71,17 @@ In this unit we will learn about data, information and knowledge. We will also l
   
   What types of technology have driven the increased need for big data?
   
-  The entertainment industry has pushed the need for big data with one example being able to predict if Lebron play or sit. 
+  The entertainment industry has pushed the need for big data with one example being able to predict if Lebron play or sit.
   
+  ## Structured Query Language
+  
+  Explain RDBMS and how it relates to SQL and the purpose of SQL
+  
+  RDBMS is Relational Database Management System which is a program that allow you to create, update and administer a relational 
+  database, and this uses a SQl language to access the database. The purpose of SQL is that it is the programming language used
+  to communicate with data stored in a relational database.
+  
+  The primary key in the example above is the customer ID . I think it is this because it is unique to that customer.
   
   
   
