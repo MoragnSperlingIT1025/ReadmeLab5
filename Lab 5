@@ -83,8 +83,24 @@ In this unit we will learn about data, information and knowledge. We will also l
   
   The primary key in the example above is the customer ID . I think it is this because it is unique to that customer.
   
+  ## SQL Injections
   
+  SQL is input from the user that is not in the database and the database will run when it should not, this a security threat because
+  then a hacker might get unauthorized access to people information. Using parameters is the best thing to remedy this problem. 
   
+  # Ethical and Legal Implications 
+  
+  Explain the purpose of a "code of ethics" and why the ACM created a code for the computing discipline.
+  
+  A code of ethics is a document that outlines a set of acceptable behaviors. The ACM was created so every member will know what
+  is expected of each other. It was also the admonition to honest and trustworthy. It also clarifies the acceptable standardsof behaviors 
+  for a professional group. 
+
+  Explain the difference between a code of ethics and AUP (acceptable use policies.)
+  
+  Many organizations that provide technology services to a group of constituents or the public require agreement to an acceptable 
+  use policy (AUP) before those services can be accessed is a set of rules that are not as formal as a code as ethics and company
+  will have this
   
    
   
