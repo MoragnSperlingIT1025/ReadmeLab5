@@ -16,6 +16,34 @@
   instantiated from this class. A object is an instance of a class. This is the realized version of the class, where the class is 
   manifested in the program. Instantiate is to make a object in an OOP language. An intrantiated object is named and created in memory.
   
+  # Unified Modeling Language (UML) 
+  
+  OMG is Object Management Group.UML is a diagram that was created to forge a common visual langauge in the world of software
+  development. OMG, is a consortium founded in 1989, it is a task force that develops enterprise integration.
+   
+  object-definition of a shark, Because the objects is what makes up the class 
+  class-shark, Shark is a class because it defines the blueprint created by a programmer for an object.   
+  abstraction- to: swim(self) This because it is the action of the real work entity 
+  encapsulation-Sammy because this was shark to and if was binded in the data but not shown to the user
+  inheritance-a specific type of shark, This is matched because this would be creating a new class   
+  
+  
+  # Data, Information and Knowledge 
+  
+  ## Relational Data
+  
+  ### Data, Information and Knowledge 
+  
+  What is the difference between data, information and knowledge?
+  
+  Data are the raw bits and pieces of information with no context, knowledge is the consumption of information, and used to make 
+  decisions. An informaion is fata that has been interpreted. 
+  
+  
+   
+  
+  
+
   
 
 
