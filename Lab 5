@@ -1,0 +1,22 @@
+# Executive Summary
+
+# Object Oriented Programming (OOP) 
+  
+  i. What are the methods and the property of the shark class?
+  
+  The methods for the shark is swimming and awesome and the property of the shark class is sammy(?) or self.
+  
+  ii. What is the purpose of a constructor?
+  
+  The purpose of the constructor is to initialize data. It rums as soon as an object of a class is instantiated.
+  
+  iii. What is a class vs. an object and what does it mean to "instantiate an object from a class?"
+  
+  A class is a blueprint created by a programmer for an object. This defines a set of attributes that will characterize any object that is 
+  instantiated from this class. A object is an instance of a class. This is the realized version of the class, where the class is 
+  manifested in the program. Instantiate is to make a object in an OOP language. An intrantiated object is named and created in memory.
+  
+  
+
+
+# Conclusion 
