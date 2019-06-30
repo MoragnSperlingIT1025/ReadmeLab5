@@ -1,5 +1,7 @@
 # Executive Summary
 
+In this unit we will learn about data, information and knowledge. We will also learn about the basics of Python and OOP.
+
 # Object Oriented Programming (OOP) 
   
   i. What are the methods and the property of the shark class?
@@ -38,6 +40,41 @@
   
   Data are the raw bits and pieces of information with no context, knowledge is the consumption of information, and used to make 
   decisions. An informaion is fata that has been interpreted. 
+  
+  What would be the primary key in the customers and orders table?
+  
+  My database for a insurance company and my primary key would be a combination of their last name and birthday.
+  So the first 4 letters of their last name last 3 of their first name and the last two numbers of their birth year.
+  
+  
+  How would the customers and orders table be related?
+  
+  This unique ID will be able to related each person individually. 
+  
+  What would be the foreign key in the orders table?
+  
+  The foreign key would their user name that was created with their birhtday and first and last names. 
+  
+  
+  The orders table would likely have a date field.  
+  Explain why it is important to properly define the data type of a field.
+  
+  It is important to properlpy define data of a field First, a data type tells the 
+  database what functions can be performed with the data. Secondly for storage space.
+  
+ # Big Data
+ 
+ ## Data, Information and Knowledge
+ 
+ Volume which is the amount of data. Big refers to the huge amount. Velocity, which represents the way the data moves,
+ Variety shows the different types of data. And Veracity is used to describe trustworthiness of the data
+  
+  What types of technology have driven the increased need for big data?
+  
+  The entertainment industry has pushed the need for big data with one example being able to predict if Lebron play or sit. 
+  
+  
+  
   
   
    
